@@ -65,7 +65,7 @@ def main():
    coverage.append(status)
    for e in rows: events[e['id']]=e
  # Preserve last known listings for failed sources, explicitly mark stale.
- path=ROOT/'public/feed.json'; old=json.loads(path.read_text()) if path.exists() else {}; failed={s['url'] for s in coverage if s['state']!='parsed'}
+ path=ROOT/'feed.json'; old=json.loads(path.read_text()) if path.exists() else {}; failed={s['url'] for s in coverage if s['state']!='parsed'}
  for e in old.get('events',[]):
   if e.get('source') in failed and e['date']>=now.date().isoformat() and e['id'] not in events:
    events[e['id']]=dict(e,verification='stale; recheck source')
