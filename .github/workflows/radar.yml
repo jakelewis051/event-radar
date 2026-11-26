@@ -31,14 +31,17 @@ jobs:
         id: scan
         env:
           env:
-  EVENT_NAME: ${{ github.event_name }}
-  TZ: America/Los_Angeles
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          
-
+        - name: Scan and validate
+        id: scan
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          TZ: America/Los_Angeles
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
           cp feed.json /tmp/previous-feed.json
           python scan.py
           python ai_analyst.py
+
 
           python - <<'PY'
           import json
