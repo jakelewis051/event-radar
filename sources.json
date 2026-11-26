@@ -1,3 +1,167 @@
 [
-["Reno Little Theater","Reno","https://www.renolittletheater.org/"],["Good Luck Macbeth","Reno","https://www.goodluckmacbeth.org/"],["Brüka Theatre","Reno","https://www.bruka.org/"],["Pioneer Center","Reno","https://pioneercenter.com/"],["Brewery Arts Center","Carson City","https://breweryarts.org/events/"],["Crystal Bay Casino","Tahoe","https://www.crystalbaycasino.com/entertainment/events/"],["Brewery District","Reno","https://renobrewerydistrict.com/events/"],["Black Rabbit Mead","Reno","https://blackrabbitmeads.com/"],["Lead Dog","Reno","https://leaddogbrewing.com/"],["The Alpine","Reno","https://thealpine.com/"],["Dead Ringer","Reno","https://deadringerreno.com/"],["Reno Improv","Reno","https://renoimprov.org/"],["Potentialist Workshop","Reno","https://www.upside-down-universe.com/events"],["UNR","Reno","https://events.unr.edu/"],["Reno News & Review","Reno","https://renonr.com/"],["Truckee Community Theater","Truckee","https://truckeecommunitytheater.com/"],["Holland Project","Reno","https://hollandreno.org/"],["PK Social Club","Reno",null],["Laika Press","Reno",null],["Tahoe theater companies","Tahoe",null],["Other Brewery District venues","Reno",null],["Adult arts and nightlife","Reno",null],["Outdoor and maker events","Reno",null]
+  [
+    "Reno Little Theater",
+    "Reno",
+    "https://www.renolittletheater.org/"
+  ],
+  [
+    "Good Luck Macbeth",
+    "Reno",
+    "https://www.goodluckmacbeth.org/"
+  ],
+  [
+    "Brüka Theatre",
+    "Reno",
+    "https://www.bruka.org/"
+  ],
+  [
+    "Pioneer Center",
+    "Reno",
+    "https://pioneercenter.com/"
+  ],
+  [
+    "Brewery Arts Center",
+    "Carson City",
+    "https://breweryarts.org/events/"
+  ],
+  [
+    "Crystal Bay Casino",
+    "Tahoe",
+    "https://www.crystalbaycasino.com/entertainment/events/"
+  ],
+  [
+    "Brewery District",
+    "Reno",
+    "https://renobrewerydistrict.com/events/"
+  ],
+  [
+    "Black Rabbit Mead",
+    "Reno",
+    "https://blackrabbitmeads.com/"
+  ],
+  [
+    "Lead Dog",
+    "Reno",
+    "https://leaddogbrewing.com/"
+  ],
+  [
+    "The Alpine",
+    "Reno",
+    "https://thealpine.com/"
+  ],
+  [
+    "Dead Ringer",
+    "Reno",
+    "https://deadringerreno.com/"
+  ],
+  [
+    "Reno Improv",
+    "Reno",
+    "https://renoimprov.org/"
+  ],
+  [
+    "Potentialist Workshop",
+    "Reno",
+    "https://www.upside-down-universe.com/events"
+  ],
+  [
+    "UNR",
+    "Reno",
+    "https://events.unr.edu/"
+  ],
+  [
+    "Reno News & Review",
+    "Reno",
+    "https://renonr.com/"
+  ],
+  [
+    "Truckee Community Theater",
+    "Truckee",
+    "https://truckeecommunitytheater.com/"
+  ],
+  [
+    "Holland Project",
+    "Reno",
+    "https://hollandreno.org/"
+  ],
+  [
+    "PK Social Club",
+    "Reno",
+    null
+  ],
+  [
+    "Laika Press",
+    "Reno",
+    null
+  ],
+  [
+    "Other Brewery District venues",
+    "Reno",
+    null
+  ],
+  [
+    "Adult arts and nightlife",
+    "Reno",
+    null
+  ],
+  [
+    "Outdoor and maker events",
+    "Reno",
+    null
+  ],
+  [
+    "Tahoe theater companies",
+    "Tahoe",
+    null
+  ],
+  [
+    "Holland Project calendar",
+    "Reno",
+    "https://hollandreno.org/calendar/list/"
+  ],
+  [
+    "Visit Reno Tahoe",
+    "Reno",
+    "https://www.visitrenotahoe.com/events"
+  ],
+  [
+    "VisitReno",
+    "Reno",
+    "https://www.visitreno.com/events"
+  ],
+  [
+    "The Hometown Post",
+    "Reno",
+    "https://hometownpost.events/"
+  ],
+  [
+    "Loving Reno",
+    "Reno",
+    "https://www.lovingreno.com/2026/"
+  ],
+  [
+    "KUNR Community Calendar",
+    "Reno",
+    "https://www.kunr.org/community-calendar"
+  ],
+  [
+    "Visit Truckee Tahoe",
+    "Truckee",
+    "https://www.visittruckeetahoe.com/things-to-do/events-calendar"
+  ],
+  [
+    "Truckee Chamber",
+    "Truckee",
+    "https://chamber.truckee.com/events/"
+  ],
+  [
+    "Truckee Cultural District",
+    "Truckee",
+    "https://www.truckeeculturaldistrict.org/happening-now"
+  ],
+  [
+    "TNT This Week",
+    "Tahoe",
+    "https://events.peakdigitalstudio.com/"
+  ]
 ]
