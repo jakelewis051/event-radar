@@ -1,0 +1,95 @@
+name: Event Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12,13 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: event-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    outputs:
+      publish: ${{ steps.scan.outputs.publish }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scan and validate
+        id: scan
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          TZ: America/Los_Angeles
+        run: |
+          if [ "$EVENT_NAME" = schedule ] && [ "$(date +%H)" != 05 ]; then
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          cp feed.json /tmp/previous-feed.json
+          python scan.py
+
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          old = json.loads(Path('/tmp/previous-feed.json').read_text())
+          new = json.loads(Path('feed.json').read_text())
+
+          assert isinstance(new['events'], list)
+          assert isinstance(new['coverage'], list)
+          assert any(s['state'] == 'parsed' for s in new['coverage']), 'No sources parsed'
+          assert new['events'] or not old.get('events'), 'Empty scan blocked'
+
+          print(json.dumps(new['coverage'], indent=2))
+          PY
+
+          echo "publish=true" >> "$GITHUB_OUTPUT"
+
+      - name: Save validated feed
+        if: steps.scan.outputs.publish == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Event Radar feed"
+            git push
+          fi
+
+      - name: Stage public site
+        if: steps.scan.outputs.publish == 'true'
+        run: |
+          mkdir -p site
+          cp index.html feed.json icon.svg manifest.json sw.js site/
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.scan.outputs.publish == 'true'
+        with:
+          path: site
+
+  deploy:
+    needs: scan
+    if: needs.scan.outputs.publish == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
