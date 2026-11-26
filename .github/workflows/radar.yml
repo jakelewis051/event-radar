@@ -30,10 +30,6 @@ jobs:
       - name: Scan and validate
         id: scan
         env:
-          env:
-        - name: Scan and validate
-        id: scan
-        env:
           EVENT_NAME: ${{ github.event_name }}
           TZ: America/Los_Angeles
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -41,7 +37,6 @@ jobs:
           cp feed.json /tmp/previous-feed.json
           python scan.py
           python ai_analyst.py
-
 
           python - <<'PY'
           import json
