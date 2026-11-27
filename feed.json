@@ -1,74 +1,6 @@
 {
-  "generated_at": "2026-11-26T16:07:24.857729-08:00",
+  "generated_at": "2026-11-27T06:26:14.056014-08:00",
   "events": [
-    {
-      "id": "ba130c284a1767c279a671f9",
-      "name": "Ebony & Not Quite Ivory",
-      "date": "2026-11-26",
-      "time": "18:00",
-      "venue": "Pignic Pub & Patio",
-      "region": "Reno",
-      "category": "Other",
-      "rating": 2,
-      "side": false,
-      "description": "Ebony & Not Quite Ivory — November 26, 2026 at 06:00 PM — Pignic Pub & Patio — Reno",
-      "url": "https://hometownpost.events/",
-      "source": "https://hometownpost.events/",
-      "checked_at": "2026-11-26T16:07:41.020442-08:00",
-      "verification": "AI extracted; source quote matched; recheck organizer",
-      "address": "Reno"
-    },
-    {
-      "id": "3e209e712f65b64bd95e30ba",
-      "name": "Tiki Trader Thursdays",
-      "date": "2026-11-26",
-      "time": "20:00",
-      "venue": "Pele Utu",
-      "region": "Reno",
-      "category": "Other",
-      "rating": 2,
-      "side": false,
-      "description": "Tiki Trader Thursdays — November 26, 2026 at 08:00 PM — Pele Utu — Reno",
-      "url": "https://hometownpost.events/",
-      "source": "https://hometownpost.events/",
-      "checked_at": "2026-11-26T16:07:41.020442-08:00",
-      "verification": "AI extracted; source quote matched; recheck organizer",
-      "address": "Reno"
-    },
-    {
-      "id": "beec33aeae826726196470c5",
-      "name": "Salsa Night at Cypress Reno",
-      "date": "2026-11-26",
-      "time": "20:30",
-      "venue": "Cypress Reno",
-      "region": "Reno",
-      "category": "Other",
-      "rating": 2,
-      "side": false,
-      "description": "Salsa Night at Cypress Reno — November 26, 2026 at 08:30 PM — Cypress Reno — Reno",
-      "url": "https://hometownpost.events/",
-      "source": "https://hometownpost.events/",
-      "checked_at": "2026-11-26T16:07:41.020442-08:00",
-      "verification": "AI extracted; source quote matched; recheck organizer",
-      "address": "Reno"
-    },
-    {
-      "id": "c773983aeb3155b2caef23fa",
-      "name": "Thanksgiving Night",
-      "date": "2026-11-26",
-      "time": "21:00",
-      "venue": "Dead Ringer Analog Bar",
-      "region": "Reno",
-      "category": "Other",
-      "rating": 2,
-      "side": false,
-      "description": "Thanksgiving Night — November 26, 2026 at 09:00 PM — Dead Ringer Analog Bar — Reno",
-      "url": "https://hometownpost.events/",
-      "source": "https://hometownpost.events/",
-      "checked_at": "2026-11-26T16:07:41.020442-08:00",
-      "verification": "AI extracted; source quote matched; recheck organizer",
-      "address": "Reno"
-    },
     {
       "id": "e13af9fcdef065434940daf6",
       "name": "Black Friday Live Music - Nick Eng",
@@ -83,7 +15,7 @@
       "url": "https://hometownpost.events/",
       "source": "https://hometownpost.events/",
       "checked_at": "2026-11-26T16:07:41.020442-08:00",
-      "verification": "AI extracted; source quote matched; recheck organizer",
+      "verification": "stale; recheck source",
       "address": "Reno"
     },
     {
@@ -100,7 +32,7 @@
       "url": "https://hometownpost.events/",
       "source": "https://hometownpost.events/",
       "checked_at": "2026-11-26T16:07:41.020442-08:00",
-      "verification": "AI extracted; source quote matched; recheck organizer",
+      "verification": "stale; recheck source",
       "address": "Reno"
     },
     {
@@ -116,7 +48,7 @@
       "description": "Buy Tickets! There is a timeless magic to the holiday season—a gentle pull toward memory, reflection, and the quiet hope that no heart is ever truly beyond the reach of redemption. For generations, Charles Dickens’ A Christmas Carol has stood as the testament to this truth, reminding us that even in the deepest midwinter chill, […] \\n",
       "url": "https://breweryarts.org/event/20261127-ppi-christmas-carol/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -134,6 +66,108 @@
       "url": "https://hometownpost.events/",
       "source": "https://hometownpost.events/",
       "checked_at": "2026-11-26T16:07:41.020442-08:00",
+      "verification": "stale; recheck source",
+      "address": "Reno"
+    },
+    {
+      "id": "66415ac9755f9ac42b8b3465",
+      "name": "Pat O'Neill (Seated Comedy Show)",
+      "date": "2026-11-27",
+      "time": "20:00",
+      "venue": "Crystal Bay Club Casino",
+      "region": "Crystal Bay",
+      "category": "Comedy",
+      "rating": 2,
+      "side": false,
+      "description": "Pat O'Neill (Seated Comedy Show) — November 27, 2026 at 08:00 PM — Crystal Bay Club Casino — Crystal Bay",
+      "url": "https://hometownpost.events/",
+      "source": "https://hometownpost.events/",
+      "checked_at": "2026-11-27T06:26:30.157201-08:00",
+      "verification": "AI extracted; source quote matched; recheck organizer",
+      "address": "Crystal Bay"
+    },
+    {
+      "id": "33d6c7deed11fac45d156e95",
+      "name": "Magique | The Grand Illusion Spectacular",
+      "date": "2026-11-27",
+      "time": "21:00",
+      "venue": "Nugget Casino Resort",
+      "region": "Sparks",
+      "category": "Other",
+      "rating": 2,
+      "side": false,
+      "description": "Magique | The Grand Illusion Spectacular — November 27, 2026 at 09:00 PM — Nugget Casino Resort — Sparks",
+      "url": "https://hometownpost.events/",
+      "source": "https://hometownpost.events/",
+      "checked_at": "2026-11-27T06:26:30.157201-08:00",
+      "verification": "AI extracted; source quote matched; recheck organizer",
+      "address": "Sparks"
+    },
+    {
+      "id": "77f400958c12f982c6fd1cee",
+      "name": "MySpace Rewind: Reno Emo & Pop-Punk Night",
+      "date": "2026-11-27",
+      "time": "21:00",
+      "venue": "D’Tension Bar & Lounge",
+      "region": "Reno",
+      "category": "Other",
+      "rating": 2,
+      "side": false,
+      "description": "MySpace Rewind: Reno Emo & Pop-Punk Night — November 27, 2026 at 09:00 PM — D’Tension Bar & Lounge — Reno",
+      "url": "https://hometownpost.events/",
+      "source": "https://hometownpost.events/",
+      "checked_at": "2026-11-27T06:26:30.157201-08:00",
+      "verification": "AI extracted; source quote matched; recheck organizer",
+      "address": "Reno"
+    },
+    {
+      "id": "bf38594bbbb31d63889ce893",
+      "name": "The Fakies Live",
+      "date": "2026-11-27",
+      "time": "21:00",
+      "venue": "Black Rabbit Mead Company",
+      "region": "Reno",
+      "category": "Other",
+      "rating": 2,
+      "side": false,
+      "description": "The Fakies Live — November 27, 2026 at 09:00 PM — Black Rabbit Mead Company — Reno",
+      "url": "https://hometownpost.events/",
+      "source": "https://hometownpost.events/",
+      "checked_at": "2026-11-27T06:26:30.157201-08:00",
+      "verification": "AI extracted; source quote matched; recheck organizer",
+      "address": "Reno"
+    },
+    {
+      "id": "a8c72192ae58738bdaa7f084",
+      "name": "Gentlemens Club",
+      "date": "2026-11-27",
+      "time": "22:00",
+      "venue": "Dead Ringer Analog Bar",
+      "region": "Reno",
+      "category": "Other",
+      "rating": 2,
+      "side": false,
+      "description": "Gentlemens Club — November 27, 2026 at 10:00 PM — Dead Ringer Analog Bar — Reno",
+      "url": "https://hometownpost.events/",
+      "source": "https://hometownpost.events/",
+      "checked_at": "2026-11-27T06:26:30.157201-08:00",
+      "verification": "AI extracted; source quote matched; recheck organizer",
+      "address": "Reno"
+    },
+    {
+      "id": "075a41c3d0b34c5c2457e7a7",
+      "name": "Bad Bunny vs Drake",
+      "date": "2026-11-27",
+      "time": "22:00",
+      "venue": "Jupiter Red",
+      "region": "Reno",
+      "category": "Other",
+      "rating": 2,
+      "side": false,
+      "description": "Bad Bunny vs Drake — November 27, 2026 at 10:00 PM — Jupiter Red — Reno",
+      "url": "https://hometownpost.events/",
+      "source": "https://hometownpost.events/",
+      "checked_at": "2026-11-27T06:26:30.157201-08:00",
       "verification": "AI extracted; source quote matched; recheck organizer",
       "address": "Reno"
     },
@@ -150,7 +184,7 @@
       "description": "Buy Tickets! There is a timeless magic to the holiday season—a gentle pull toward memory, reflection, and the quiet hope that no heart is ever truly beyond the reach of redemption. For generations, Charles Dickens’ A Christmas Carol has stood as the testament to this truth, reminding us that even in the deepest midwinter chill, […] \\n",
       "url": "https://breweryarts.org/event/20261128-ppi-christmas-carol/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -167,8 +201,8 @@
       "description": "Join us for the November Photo Walk with Vale Schmitz! Whether you’re a beginner or seasoned pro this is a great opportunity to meet and shoot with other photography enthusiasts […] \\n",
       "url": "https://hollandreno.org/events/nov-photo-walk/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -184,7 +218,7 @@
       "description": "Buy Tickets! National Lampoon\\'s Christmas Vacation is a 1989 American Christmas slapstick comedy film and the third installment in National Lampoon magazine\\'s Vacation film series. It was directed by Jeremiah Chechik and written and produced by John Hughes. The film\\'s ensemble cast is led by Chevy Chase, Beverly D\\'Angelo, and Randy Quaid, while also featuring […] \\n",
       "url": "https://breweryarts.org/event/20261128-c5-christmas-vacation/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -201,8 +235,8 @@
       "description": "ALWAYS ALL AGES \\n",
       "url": "https://hollandreno.org/events/ashe/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -218,7 +252,7 @@
       "description": "Celebrate Native American Heritage while watching your Nevada Wolfpack take on Troy.",
       "url": "https://events.unr.edu/event/womens-basketball-game-nugget-classic-native-american-heritage-day",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -235,7 +269,7 @@
       "description": "Buy Tickets! There is a timeless magic to the holiday season—a gentle pull toward memory, reflection, and the quiet hope that no heart is ever truly beyond the reach of redemption. For generations, Charles Dickens’ A Christmas Carol has stood as the testament to this truth, reminding us that even in the deepest midwinter chill, […] \\n",
       "url": "https://breweryarts.org/event/20261129-ppi-christmas-carol/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -252,7 +286,7 @@
       "description": "Noah Boston's (BA Musical Theatre) Senior Recital! When: 7:00 pm, Monday, November 30th Where: Lombardi Dance Theatre Featuring Collaborative Pianist Carol House And additional vocalists: Zoe McCracken Jude Garcia Marco Bisio MJ Boga Izzy Aucoin Bellamy Barnes And PJ Fahey With Works by: Stephen Sondheim Andrew Lloyd Webber Stephen Schwartz Adam Gwon Alan Menken And more....",
       "url": "https://events.unr.edu/event/noah-bostons-senior-recital",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -269,7 +303,7 @@
       "description": "The Low Brass Studio Recital features trombone, euphonium, and tuba students from the University of Nevada, Reno School of Music. The program showcases a variety of solo works and highlights the musical growth and accomplishments of the UNR low brass studio throughout the semester. Join us on November 30 at 7:30 p.m. in Harlan O. and Barbara R. Hall Recital Hall.",
       "url": "https://events.unr.edu/event/low-brass-studio-recital",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -286,7 +320,7 @@
       "description": "Combined Piano Studios Recital (Students of Hyeyeon Park, James Winn, and Cicilia Yudha)",
       "url": "https://events.unr.edu/event/piano-area-recital",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -303,7 +337,7 @@
       "description": "The Nevada Concert Winds welcomes the 8th Grade Advanced Band from Alder Creek Middle School to share the stage for an evening of music-making, inspiration and collaboration. *A $3.00 service fee is applied to each transaction to cover online processing and box office administrative costs.",
       "url": "https://events.unr.edu/event/nevada-concert-winds-4024",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -320,7 +354,7 @@
       "description": "Join the University of Nevada, Reno at Lake Tahoe for an inspiring evening with Haydee Acebo, the first Latina to swim the length of Lake Tahoe! Haydee will share her remarkable journey of perseverance, resilience and the power of asking for help. The event will feature a screening of her documentary, a conversation about her experiences and her book, El Poder de Pedir Ayuda (The Power of Asking f",
       "url": "https://events.unr.edu/event/beyond-the-swim-an-evening-with-haydee-acebo",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "999 Lake Tahoe Boulevard, Incline Village, Nevada 89451"
     },
@@ -337,7 +371,7 @@
       "description": "Our talented ensemble brings together swinging rhythms, soulful melodies and vibrant improvisation in a concert that celebrates the energy and artistry of jazz. *A $3.00 service fee is applied to each transaction to cover online processing and box office administrative costs.",
       "url": "https://events.unr.edu/event/jazz-ensemble-i-ii-6912",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -354,7 +388,7 @@
       "description": "The University of Nevada, Reno Performing Arts Series welcomes Kala’e + Kalena, a Hawaiian music duo celebrated for their soulful vocals, heartfelt songwriting and deep connection to island traditions. Blending Hawaiian, folk and contemporary influences, Kala‘e Parish and Kalena Kukona create intimate performances that honor family, heritage and shared artistic identity. Through rich harmonies and",
       "url": "https://events.unr.edu/event/performing-arts-series-presents-kalae-kalena",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -371,7 +405,7 @@
       "description": "Join us for the annual tree lighting ceremony on the Capitol Grounds with the traditional caroling by the city\\'s 5th graders, sleigh rides down Carson Street, Santa and the Grinch, outdoor vendor market, live music and hot chocolate to kick-off the holidays in Carson City! Interested in being a vendor at this event? APPLY HERE! \\n",
       "url": "https://breweryarts.org/event/20261204-silver-snowflake/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "  "
     },
@@ -388,7 +422,7 @@
       "description": "Register Here! Enjoy a fun and easy acrylic painting class as you follow along with instructor Debbie Corona in a relaxed and friendly atmosphere. Includes two complimentary beverages and all materials. Please arrive through 2nd St entrance. \\n",
       "url": "https://breweryarts.org/event/20261204-ps-name-ornament/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -405,7 +439,7 @@
       "description": "Buy Tickets! There is a timeless magic to the holiday season—a gentle pull toward memory, reflection, and the quiet hope that no heart is ever truly beyond the reach of redemption. For generations, Charles Dickens’ A Christmas Carol has stood as the testament to this truth, reminding us that even in the deepest midwinter chill, […] \\n",
       "url": "https://breweryarts.org/event/20261204-ppi-christmas-carol/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -422,8 +456,8 @@
       "description": "Since the early \\'90s, San Jose\\'s Exhumed have honed their brand of gore-obsessed death metal with a tongue-in-cheek flair and an overall musical approach often reminiscent of Carcass, a band […] \\n",
       "url": "https://hollandreno.org/events/exhumed/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -439,7 +473,7 @@
       "description": "Experience the beauty and emotion of live choral music with our Chamber Chorale and Concert Choir. *A $3.00 service fee is applied to each transaction to cover online processing and box office administrative costs.",
       "url": "https://events.unr.edu/event/choral-area-concert-7212",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -456,7 +490,7 @@
       "description": "High school-age students will explore the science behind gliders as engineless marvels, and create their own glider to scale using principles of flight.",
       "url": "https://events.unr.edu/event/epic-lab-foam-fliers",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "1664 N Virginia St, Reno NV 89557"
     },
@@ -473,8 +507,8 @@
       "description": "Since 2010, the annual holiday market at The Holland Project has been the go-to, one-stop shop for all things artist-made, DIY, vintage, and more, and always in time for the […] \\n",
       "url": "https://hollandreno.org/events/hi-dez-holiday-market/2026-12-05/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -490,7 +524,7 @@
       "description": "Register Here! No experience needed for this fun, hands on workshop where you will create Christmas ornaments and personalized name tags from slabs of clay. Class fee includes instruction, materials and both firings. There will be additional ornaments and tag styles to create other than the examples shown. 12/5 Create 12/12 Glaze 12/19 Pick Up […] \\n",
       "url": "https://breweryarts.org/event/20261205-ornament-workshop/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "CARSON CITY NV 89703"
     },
@@ -507,7 +541,7 @@
       "description": "Learn the full process of creating your own custom rug using a tufting gun! In this hands-on class, you’ll design, tuft, and glue a rug up to 2x2 feet in size. We’ll guide you through threading and using the tufting gun, controlling your lines, and applying adhesive for a clean finish. You’ll also get to practice shaving techniques on a sample rug before finishing your own piece later. Designs sho",
       "url": "https://events.unr.edu/event/intro-to-rug-tufting-6526",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -524,7 +558,7 @@
       "description": "Buy Tickets! There is a timeless magic to the holiday season—a gentle pull toward memory, reflection, and the quiet hope that no heart is ever truly beyond the reach of redemption. For generations, Charles Dickens’ A Christmas Carol has stood as the testament to this truth, reminding us that even in the deepest midwinter chill, […] \\n",
       "url": "https://breweryarts.org/event/20261205-ppi-christmas-carol/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -541,7 +575,7 @@
       "description": "About the performance Apex Concerts welcomes the legendary Takács Quartet for an evening of music shaped by passion, struggle and the depths of human expression. From the grief-stricken intensity of Felix Mendelssohn’s final quartet to the haunting drama of Franz Schubert’s “Death and the Maiden,” this program explores works of profound emotional power alongside the vivid contemporary voice of Gab",
       "url": "https://events.unr.edu/event/apex-takacs-quartet",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -558,8 +592,8 @@
       "description": "Since 2010, the annual holiday market at The Holland Project has been the go-to, one-stop shop for all things artist-made, DIY, vintage, and more, and always in time for the […] \\n",
       "url": "https://hollandreno.org/events/hi-dez-holiday-market/2026-12-06/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -575,7 +609,7 @@
       "description": "Buy Tickets! There is a timeless magic to the holiday season—a gentle pull toward memory, reflection, and the quiet hope that no heart is ever truly beyond the reach of redemption. For generations, Charles Dickens’ A Christmas Carol has stood as the testament to this truth, reminding us that even in the deepest midwinter chill, […] \\n",
       "url": "https://breweryarts.org/event/20261206-ppi-christmas-carol/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -592,7 +626,7 @@
       "description": "Talia Smith presents her senior recital in collaboration with Aren Long. Featuring Zoe McCracken, PJ Fahey, and More! A student of Dr. Katherine Parker, she'll be presenting works by Weil, Herbert, Sondheim, Menken, Rodrigo and so many more surprises. This \"cabaret-cital is a celebration of accepting yourself and all the unique things that make up a performing artist. \"Find out who you are and do ",
       "url": "https://events.unr.edu/event/talia-smiths-senior-recital",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -609,7 +643,7 @@
       "description": "Join the Nevada School of Music Saxophone Studio for an evening of solo, quartet, and saxophone ensemble performances!",
       "url": "https://events.unr.edu/event/saxophone-studio-recital",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -626,7 +660,7 @@
       "description": "Our two Nevada School of Music Brass Quintets come together to present a night full of exciting brass quintet repertoire.",
       "url": "https://events.unr.edu/event/brass-quintet-showcase-8100",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -643,7 +677,7 @@
       "description": "The Constitution and America's Conscience and Character: Can America's constitutional democracy endure without moral leadership and civic virtue? On Tuesday, December 8, join Judge J. Michael Luttig, a distinguished former federal appellate judge and leading voice on constitutional law, for a timely discussion of America's moral and constitutional challenges, the responsibilities of its leaders an",
       "url": "https://events.unr.edu/event/constitutional-scholars-speaker-series-judge-j-michael-luttig",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -660,7 +694,7 @@
       "description": "Experience the artistry, emotion and power of a live performance that is sure to inspire audiences of all ages. *A $3.00 service fee is applied to each transaction to cover online processing and box office administrative costs.",
       "url": "https://events.unr.edu/event/symphony-orchestra-4821",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -677,8 +711,8 @@
       "description": "Kamran Shafii (Persian: کامران شفیعی) is an Iranian sound artist working in the field of electroacoustic music. His recent work is characterized by its concern with anthropogenic sound and complex […] \\n",
       "url": "https://hollandreno.org/events/kamran-shafii/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -694,8 +728,8 @@
       "description": "Evaboy, Miya, lowe outsider performance artist. Local support from K☆TRUCK, Pupp4trickz and Dj Redbull: Winter Edition. ALWAYS ALL AGES \\n",
       "url": "https://hollandreno.org/events/evaboy/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -711,7 +745,7 @@
       "description": "Register Here! Enjoy a fun and easy acrylic painting class as you follow along with instructor Debbie Corona in a relaxed and friendly atmosphere. Includes two complimentary beverages and all materials. Please arrive through 2nd St entrance. \\n",
       "url": "https://breweryarts.org/event/20261211-ps-north-star/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -728,8 +762,8 @@
       "description": "Local band Serendipity says goodbye with their final show and the support of their friends, Pussy Velour and Closed Curtains. \\n",
       "url": "https://hollandreno.org/events/serendipity-the-last-orbit/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -745,8 +779,8 @@
       "description": "Come make your own unique needle felted ornaments with local artist Cesar Piedra! In this workshop, Cesar will guide us step-by-step through the art of needle felting, helping us create […] \\n",
       "url": "https://hollandreno.org/events/felted-ornaments/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -762,8 +796,8 @@
       "description": "Hi-Dez Holiday Market fans will also like to know that Holland Project and Laika Press are bringing back the art and print gift shop this December in the HP Gallery! […] \\n",
       "url": "https://hollandreno.org/events/grab-n-gift-pop-up/2026-12-12/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -779,8 +813,8 @@
       "description": "Come celebrate the album release for Altered States (solo project of Anthony Santos from Freaks and Geeks/Videostore), with friends from Mantis Men and Rotten Heights! ALWAYS ALL AGES \\n",
       "url": "https://hollandreno.org/events/altered-states/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -796,8 +830,8 @@
       "description": "Please join us for the premiere of Canyon Wren for Wind Quintet, created by Zach Hooker and Sofia Haley-Lundborg and presented by the Northwest Nevada Bird Alliance. Canyon Wren is […] \\n",
       "url": "https://hollandreno.org/events/premiere-of-canyon-wren/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -813,7 +847,7 @@
       "description": "Join us in celebrating the holidays with tamales! Tamales available for purchase from over a dozen vendors PLUS kids activities, artisans, & more! Interested in selling your tamales or becoming an artisan vendor? See below... You will be selling your tamales to the general public and handling all your own sales. There will be a […] \\n",
       "url": "https://breweryarts.org/event/20261213-tamale-festival/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -830,7 +864,7 @@
       "description": "Garden talks in the Spanish Springs Library by Extension Master Gardner Volunteers. Learn about current and relevant gardening topics right here in Northern Nevada by gardeners who garden here, too! December 13th Topic Include: Considerations for a Home Greenhouse What Do All Those Terms in the Seed Catalogs Mean? Growing Herbs Indoors",
       "url": "https://events.unr.edu/event/spanish-springs-library-garden-talk-series-6878",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "7100A Pyramid Way, Sparks, NV 89436"
     },
@@ -847,8 +881,8 @@
       "description": "Pinpointing the specific catalyst for an avalanche can be slippery — any combination of classic elements, human interference, or freak accident can trigger disaster — and documenting these precise moments […] \\n",
       "url": "https://hollandreno.org/events/robber-robber/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -864,7 +898,7 @@
       "description": "Join us at the Little Valley Research Station to learn about the science happening in and around the Whittell Forest & Wildlife Area! This free educational seminar series will cover a broad range of research projects and will also be a great opportunity for you to visit the Little Valley Research Station. The seminar series is open to the public and there is no cost to attend. Please register in a",
       "url": "https://events.unr.edu/event/educational-seminar-series-research-at-whittell-forest-wildlife-area",
       "source": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": ""
     },
@@ -881,7 +915,7 @@
       "description": "Buy Tickets! From flickering lantern-lit ghosts to felt-covered frogs and singing rats, Bah, Humbug! A Century of Holiday Cinema celebrates the enduring power of Charles Dickens’ A Christmas Carol to warm even the coldest hearts. We’ll begin with Scrooge; or Marley’s Ghost (1901), one of the earliest literary adaptations ever put on screen. This short silent film captures the novelty and […] \\n",
       "url": "https://breweryarts.org/event/20261217-c5-muppet-christmas-carol/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -898,7 +932,7 @@
       "description": "Please join us for Phil Kline’s Unsilent night in Carson City! What is it? A non-denominational holiday tradition! Participants use their smartphones and portable speakers to play one of four interconnected compositions. The result is a magical wall of sound that morphs and moves through Carson City during a 45 minute walk of the historic […] \\n",
       "url": "https://breweryarts.org/event/20261218-unsilent-night/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -915,7 +949,7 @@
       "description": "Register Here! Enjoy a fun and easy acrylic painting class as you follow along with instructor Debbie Corona in a relaxed and friendly atmosphere. Includes two complimentary beverages and all materials. Please arrive through 2nd St entrance. \\n",
       "url": "https://breweryarts.org/event/20261218-ps-snowman-moon/",
       "source": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "verification": "structured source; not independently confirmed",
       "address": "Carson City NV 89703"
     },
@@ -932,8 +966,8 @@
       "description": "An all-local showcase to help raise funds for a local musician in need of support! Music from Evening Spirits, Overcxst, and Flora (new band!). $5 to $10 donations accepted in […] \\n",
       "url": "https://hollandreno.org/events/help-rissa-heal/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     },
     {
@@ -949,8 +983,8 @@
       "description": "Hi-Dez Holiday Market fans will also like to know that Holland Project and Laika Press are bringing back the art and print gift shop this December in the HP Gallery! […] \\n",
       "url": "https://hollandreno.org/events/grab-n-gift-pop-up/2026-12-19/",
       "source": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T13:45:51.795527-08:00",
-      "verification": "stale; recheck source",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "verification": "structured source; not independently confirmed",
       "address": "Reno NV 89502"
     }
   ],
@@ -958,7 +992,7 @@
     {
       "venue": "Reno Little Theater",
       "url": "https://www.renolittletheater.org/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -967,14 +1001,14 @@
     {
       "venue": "Good Luck Macbeth",
       "url": "https://www.goodluckmacbeth.org/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "fetch or parse failed",
       "detail": "HTTPError"
     },
     {
       "venue": "Brüka Theatre",
       "url": "https://www.bruka.org/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -983,12 +1017,12 @@
     {
       "venue": "Pioneer Center",
       "url": "https://pioneercenter.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
       "rejected": {},
-      "ai_state": "cached",
+      "ai_state": "analyzed",
       "ai_candidates": 0,
       "ai_rejected": {},
       "ai_added": 0
@@ -996,7 +1030,7 @@
     {
       "venue": "Brewery Arts Center",
       "url": "https://breweryarts.org/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "parsed",
       "count": 15,
       "raw": 39,
@@ -1008,7 +1042,7 @@
     {
       "venue": "Crystal Bay Casino",
       "url": "https://www.crystalbaycasino.com/entertainment/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1017,7 +1051,7 @@
     {
       "venue": "Brewery District",
       "url": "https://renobrewerydistrict.com/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "parsed",
       "count": 0,
       "raw": 5,
@@ -1029,7 +1063,7 @@
     {
       "venue": "Black Rabbit Mead",
       "url": "https://blackrabbitmeads.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1038,7 +1072,7 @@
     {
       "venue": "Lead Dog",
       "url": "https://leaddogbrewing.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1047,21 +1081,21 @@
     {
       "venue": "The Alpine",
       "url": "https://thealpine.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "fetch or parse failed",
       "detail": "URLError"
     },
     {
       "venue": "Dead Ringer",
       "url": "https://deadringerreno.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "fetch or parse failed",
       "detail": "URLError"
     },
     {
       "venue": "Reno Improv",
       "url": "https://renoimprov.org/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1070,7 +1104,7 @@
     {
       "venue": "Potentialist Workshop",
       "url": "https://www.upside-down-universe.com/events",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1079,15 +1113,15 @@
     {
       "venue": "UNR",
       "url": "https://events.unr.edu/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "parsed",
       "count": 30,
       "raw": 215,
       "rejected": {
-        "date window": 65,
-        "weekday hours": 94,
+        "weekday hours": 96,
         "low relevance": 16,
         "outside region": 5,
+        "date window": 63,
         "missing date or title": 4,
         "online": 1
       }
@@ -1095,12 +1129,12 @@
     {
       "venue": "Reno News & Review",
       "url": "https://renonr.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
       "rejected": {},
-      "ai_state": "cached",
+      "ai_state": "analyzed",
       "ai_candidates": 0,
       "ai_rejected": {},
       "ai_added": 0
@@ -1108,7 +1142,7 @@
     {
       "venue": "Truckee Community Theater",
       "url": "https://truckeecommunitytheater.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1117,61 +1151,65 @@
     {
       "venue": "Holland Project",
       "url": "https://hollandreno.org/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
-      "state": "no structured events; manual review needed",
-      "count": 0,
-      "raw": 0,
-      "rejected": {}
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "state": "parsed",
+      "count": 4,
+      "raw": 5,
+      "rejected": {
+        "weekday hours": 1
+      }
     },
     {
       "venue": "PK Social Club",
       "url": null,
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "manual source needed"
     },
     {
       "venue": "Laika Press",
       "url": null,
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "manual source needed"
     },
     {
       "venue": "Other Brewery District venues",
       "url": null,
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "manual source needed"
     },
     {
       "venue": "Adult arts and nightlife",
       "url": null,
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "manual source needed"
     },
     {
       "venue": "Outdoor and maker events",
       "url": null,
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "manual source needed"
     },
     {
       "venue": "Tahoe theater companies",
       "url": null,
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "manual source needed"
     },
     {
       "venue": "Holland Project calendar",
       "url": "https://hollandreno.org/calendar/list/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
-      "state": "no structured events; manual review needed",
-      "count": 0,
-      "raw": 0,
-      "rejected": {}
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
+      "state": "parsed",
+      "count": 15,
+      "raw": 25,
+      "rejected": {
+        "weekday hours": 10
+      }
     },
     {
       "venue": "Visit Reno Tahoe",
       "url": "https://www.visitrenotahoe.com/events",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1180,7 +1218,7 @@
     {
       "venue": "VisitReno",
       "url": "https://www.visitreno.com/events",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1189,35 +1227,35 @@
     {
       "venue": "The Hometown Post",
       "url": "https://hometownpost.events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
       "rejected": {},
-      "ai_state": "cached",
+      "ai_state": "analyzed",
       "ai_candidates": 12,
       "ai_rejected": {
-        "date window": 2,
-        "weekday hours": 3
+        "weekday hours": 3,
+        "duplicate": 3
       },
-      "ai_added": 7
+      "ai_added": 6
     },
     {
       "venue": "Loving Reno",
       "url": "https://www.lovingreno.com/2026/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "fetch or parse failed",
       "detail": "HTTPError"
     },
     {
       "venue": "KUNR Community Calendar",
       "url": "https://www.kunr.org/community-calendar",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
       "rejected": {},
-      "ai_state": "cached",
+      "ai_state": "analyzed",
       "ai_candidates": 1,
       "ai_rejected": {
         "date window": 1
@@ -1227,23 +1265,23 @@
     {
       "venue": "Visit Truckee Tahoe",
       "url": "https://www.visittruckeetahoe.com/things-to-do/events-calendar",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
       "rejected": {},
-      "ai_state": "cached",
-      "ai_candidates": 5,
+      "ai_state": "analyzed",
+      "ai_candidates": 4,
       "ai_rejected": {
-        "year missing": 2,
-        "identity not grounded": 3
+        "identity not grounded": 3,
+        "year missing": 1
       },
       "ai_added": 0
     },
     {
       "venue": "Truckee Chamber",
       "url": "https://chamber.truckee.com/events/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1252,7 +1290,7 @@
     {
       "venue": "Truckee Cultural District",
       "url": "https://www.truckeeculturaldistrict.org/happening-now",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1261,7 +1299,7 @@
     {
       "venue": "TNT This Week",
       "url": "https://events.peakdigitalstudio.com/",
-      "checked_at": "2026-11-26T16:07:24.857729-08:00",
+      "checked_at": "2026-11-27T06:26:14.056014-08:00",
       "state": "no structured events; manual review needed",
       "count": 0,
       "raw": 0,
@@ -1272,69 +1310,27 @@
   "duplicates_removed": 1,
   "ai": {
     "model": "gpt-4.1-mini",
-    "requests": 0,
-    "added": 7,
-    "input_tokens": 0,
-    "output_tokens": 0,
+    "requests": 5,
+    "added": 6,
+    "input_tokens": 11129,
+    "output_tokens": 1804,
     "status": "ready"
   },
   "ai_cache": {
     "https://pioneercenter.com/": {
       "hash": "a3deb7ee6e5e3230f02b7bb527a03cbf03dc1ba53364153f705a8e5f3ac0c4a3",
-      "day": "2026-11-26",
+      "day": "2026-11-27",
       "rows": []
     },
     "https://renonr.com/": {
       "hash": "ebcccf9ee3090ae06197596f5f6574a5ef60269518ed45912c07000c8e592b26",
-      "day": "2026-11-26",
+      "day": "2026-11-27",
       "rows": []
     },
     "https://hometownpost.events/": {
-      "hash": "4582637f70217d7ec06069ed040b027a342b84c49a971cab0bcb6de4d4f2123e",
-      "day": "2026-11-26",
+      "hash": "f2a8766ed114e18b6e207e2e14149a4a1cc13227f14b8f5708d445e55d6567a6",
+      "day": "2026-11-27",
       "rows": [
-        {
-          "name": "The Buffet - Thanksgiving Feast",
-          "startDate": "2026-11-26T14:00:00",
-          "venue": "J Resort's Festival Grounds",
-          "city": "Reno",
-          "evidence": "The Buffet - Thanksgiving Feast — November 26, 2026 at 02:00 PM — J Resort's Festival Grounds — Reno"
-        },
-        {
-          "name": "Thanksgiving Night",
-          "startDate": "2026-11-26T21:00:00",
-          "venue": "Dead Ringer Analog Bar",
-          "city": "Reno",
-          "evidence": "Thanksgiving Night — November 26, 2026 at 09:00 PM — Dead Ringer Analog Bar — Reno"
-        },
-        {
-          "name": "Alpine Academy - Enrollment Night",
-          "startDate": "2026-11-26T15:45:00",
-          "venue": "Alpine Academy College Prep",
-          "city": "Sparks",
-          "evidence": "Alpine Academy - Enrollment Night — November 26, 2026 at 03:45 PM — Alpine Academy College Prep — Sparks"
-        },
-        {
-          "name": "Ebony & Not Quite Ivory",
-          "startDate": "2026-11-26T18:00:00",
-          "venue": "Pignic Pub & Patio",
-          "city": "Reno",
-          "evidence": "Ebony & Not Quite Ivory — November 26, 2026 at 06:00 PM — Pignic Pub & Patio — Reno"
-        },
-        {
-          "name": "Tiki Trader Thursdays",
-          "startDate": "2026-11-26T20:00:00",
-          "venue": "Pele Utu",
-          "city": "Reno",
-          "evidence": "Tiki Trader Thursdays — November 26, 2026 at 08:00 PM — Pele Utu — Reno"
-        },
-        {
-          "name": "Salsa Night at Cypress Reno",
-          "startDate": "2026-11-26T20:30:00",
-          "venue": "Cypress Reno",
-          "city": "Reno",
-          "evidence": "Salsa Night at Cypress Reno — November 26, 2026 at 08:30 PM — Cypress Reno — Reno"
-        },
         {
           "name": "Cross Country Ski Center Opening Day",
           "startDate": "2026-11-27T08:30:00",
@@ -1376,60 +1372,95 @@
           "venue": "Reno Public Market",
           "city": "Reno",
           "evidence": "Knot Quite Dead — November 27, 2026 at 07:00 PM — Reno Public Market — Reno"
+        },
+        {
+          "name": "Pat O'Neill (Seated Comedy Show)",
+          "startDate": "2026-11-27T20:00:00",
+          "venue": "Crystal Bay Club Casino",
+          "city": "Crystal Bay",
+          "evidence": "Pat O'Neill (Seated Comedy Show) — November 27, 2026 at 08:00 PM — Crystal Bay Club Casino — Crystal Bay"
+        },
+        {
+          "name": "Magique | The Grand Illusion Spectacular",
+          "startDate": "2026-11-27T21:00:00",
+          "venue": "Nugget Casino Resort",
+          "city": "Sparks",
+          "evidence": "Magique | The Grand Illusion Spectacular — November 27, 2026 at 09:00 PM — Nugget Casino Resort — Sparks"
+        },
+        {
+          "name": "MySpace Rewind: Reno Emo & Pop-Punk Night",
+          "startDate": "2026-11-27T21:00:00",
+          "venue": "D’Tension Bar & Lounge",
+          "city": "Reno",
+          "evidence": "MySpace Rewind: Reno Emo & Pop-Punk Night — November 27, 2026 at 09:00 PM — D’Tension Bar & Lounge — Reno"
+        },
+        {
+          "name": "The Fakies Live",
+          "startDate": "2026-11-27T21:00:00",
+          "venue": "Black Rabbit Mead Company",
+          "city": "Reno",
+          "evidence": "The Fakies Live — November 27, 2026 at 09:00 PM — Black Rabbit Mead Company — Reno"
+        },
+        {
+          "name": "Gentlemens Club",
+          "startDate": "2026-11-27T22:00:00",
+          "venue": "Dead Ringer Analog Bar",
+          "city": "Reno",
+          "evidence": "Gentlemens Club — November 27, 2026 at 10:00 PM — Dead Ringer Analog Bar — Reno"
+        },
+        {
+          "name": "Bad Bunny vs Drake",
+          "startDate": "2026-11-27T22:00:00",
+          "venue": "Jupiter Red",
+          "city": "Reno",
+          "evidence": "Bad Bunny vs Drake — November 27, 2026 at 10:00 PM — Jupiter Red — Reno"
         }
       ]
     },
     "https://www.kunr.org/community-calendar": {
-      "hash": "753db34e43f8b93913538e5d32ec009c91251a61834e59d1cfca73f10dee9683",
-      "day": "2026-11-26",
+      "hash": "d853c166acb5d7efd5e9e16fc7b3db833ac8e57920faf1719dd2801c1b1d1468",
+      "day": "2026-11-27",
       "rows": [
         {
-          "name": "The Grumpy Old Men LIVE at Reno Public Market",
-          "startDate": "2026-11-25T14:00:00",
-          "venue": "Reno Public Market",
-          "city": "Reno",
-          "evidence": "Nov 25 Wednesday Community Events Live Music: Jazz & Blues The Grumpy Old Men LIVE at Reno Public Market Reno Public Market 02:00 PM - 04:00 PM on Wed, 25 Nov 2026 Time & Location Nov 25, 2026, 2:00 PM – 4:00 PM Reno Public Market, 299 E Plumb Ln, Reno, NV 89502, USA About the Event They’re back! The Grumpy Old Men Dance Band will be performing again at the Reno Public Market. Come enjoy the music, dance, eat, and be merry! The band plays all the great old songs of the \"30's, 40's and '50s. The band leader, Paul Mirous, is a 25-year Las Vegas performer. He was contracted by Fox for many years to teach actors to sing as well as write and play hundreds of musical compositions for TV shows and movies."
+          "name": "Free Community Thanksgiving Feast hosted by FISH",
+          "startDate": "2026-11-26T11:00:00",
+          "venue": "The Plaza Conference Center",
+          "city": "Carson City",
+          "evidence": "Free Community Thanksgiving Feast hosted by FISH The Plaza Conference Center 11:00 AM - 02:00 PM on Thu, 26 Nov 2026 You're invited! Join Friends In Service Helping (FISH) for the free Community Thanksgiving Feast on Thanksgiving Day, Thursday, November 26, from 11 a.m. to 2 p.m. at The Plaza Conference Center, 211 E. Ninth St., Carson City. Free entry includes your Thanksgiving meal and a beverage. No tickets or reservations are needed. Whether you are on your own for the holiday, new to town, or simply want to share a meal with neighbors, there is a seat at the table for you. Everyone is welcome! Can't make it but want to help? Donate at www.nvfish.com. Questions? Call 775-882-FISH (3474)."
         }
       ]
     },
     "https://www.visittruckeetahoe.com/things-to-do/events-calendar": {
       "hash": "c9425c034c43c6fc71a02556448e80cb204fcc3655e4999cdffb6bfe043732e7",
-      "day": "2026-11-26",
+      "day": "2026-11-27",
       "rows": [
-        {
-          "name": "Thanksgiving Dinner at The Lodge",
-          "startDate": "2026-11-26T14:00:00",
-          "venue": "The Lodge Restaurant & Pub in Tahoe Donner",
-          "city": "Truckee",
-          "evidence": "Thanksgiving Dinner at The Lodge Nov 26 2:00pm - 6:00pm Celebrate Thanksgiving in Truckee with a three-course holiday dinner at The Lodge Restaurant & Pub in Tahoe Donner."
-        },
         {
           "name": "Family Movie Night at Tahoe Donner",
           "startDate": "2026-11-27T18:00:00",
           "venue": "Tahoe Donner’s Northwoods Clubhouse",
           "city": "Truckee",
-          "evidence": "Family Movie Night at Tahoe Donner Nov 27 6:00pm - 9:00pm Cozy up for a free Friday night movie with the family at Tahoe Donner’s Northwoods Clubhouse."
+          "evidence": "Family Movie Night at Tahoe Donner Nov 27 6:00pm - 9:00pm Cozy up for a free Friday night movie with the family at Tahoe Donner’s Northwoods Clubhouse. Read More : Family Movie Night at Tahoe Donner"
         },
         {
           "name": "FORGED Unveiling",
           "startDate": "2026-11-28T16:00:00",
           "venue": "The Village",
           "city": "Truckee",
-          "evidence": "FORGED Unveiling Nov 28 4:00pm - 5:00pm Celebrate the athletes, coaches, families, mentors and community members who have shaped Palisades Tahoe during the annual FORGED tribute in The Village."
+          "evidence": "FORGED Unveiling Nov 28 4:00pm - 5:00pm Celebrate the athletes, coaches, families, mentors and community members who have shaped Palisades Tahoe during the annual FORGED tribute in The Village. Read More : FORGED Unveiling"
         },
         {
           "name": "Light Up the Night at Tahoe Donner",
           "startDate": "2026-11-28T17:00:00",
           "venue": "Tahoe Donner",
           "city": "Truckee",
-          "evidence": "Light Up the Night at Tahoe Donner Nov 28 5:00pm - 6:00pm Welcome the holiday season with Tahoe Donner’s annual tree-lighting celebration featuring Santa and Mrs. Claus, kids’ crafts, cozy drinks and festive fun."
+          "evidence": "Light Up the Night at Tahoe Donner Nov 28 5:00pm - 6:00pm Welcome the holiday season with Tahoe Donner’s annual tree-lighting celebration featuring Santa and Mrs. Claus, kids’ crafts, cozy drinks and festive fun. Read More : Light Up the Night at Tahoe Donner"
         },
         {
           "name": "Start Haus Free Ski Tuning Clinic Series",
           "startDate": "2026-11-28T18:00:00",
           "venue": "Start Haus",
           "city": "Truckee",
-          "evidence": "Start Haus Free Ski Tuning Clinic Series Nov 28 6:00pm - 7:30pm Learn how to tune, wax and care for your skis or snowboard during a free seven-part clinic series at Start Haus in Truckee."
+          "evidence": "Start Haus Free Ski Tuning Clinic Series Nov 28 6:00pm - 7:30pm Learn how to tune, wax and care for your skis or snowboard during a free seven-part clinic series at Start Haus in Truckee. Read More : Start Haus Free Ski Tuning Clinic Series"
         }
       ]
     }
